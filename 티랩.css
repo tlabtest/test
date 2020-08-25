@@ -61,24 +61,24 @@
 @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 1183px}
 .u-section-2 .u-repeater-1 {min-height: 1131px; grid-template-columns: repeat(2, 50%); margin-right: initial; margin-left: initial}
 .u-section-2 .u-image-1 {height: 434px; margin-right: initial; margin-left: initial}
-.u-section-2 .u-text-2 {width: auto; margin-top: 18px}
+.u-section-2 .u-text-2 {width: auto; margin-top: 28px}
 .u-section-2 .u-text-3 {margin-top: 0}
 .u-section-2 .u-image-2 {height: 434px; margin-right: initial; margin-left: initial}
-.u-section-2 .u-text-4 {width: auto; margin-top: 18px}
+.u-section-2 .u-text-4 {width: auto; margin-top: 28px}
 .u-section-2 .u-text-5 {margin-top: 0}
 .u-section-2 .u-image-3 {height: 434px; margin-right: initial; margin-left: initial}
-.u-section-2 .u-text-6 {width: auto; margin-top: 18px}
+.u-section-2 .u-text-6 {width: auto; margin-top: 28px}
 .u-section-2 .u-text-7 {margin-top: 0} }
 
 @media (max-width: 767px){ .u-section-2 .u-repeater-1 {grid-template-columns: 100%; margin-right: initial; margin-left: initial}
 .u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-section-2 .u-image-1 {height: 753px; width: 521px; margin-left: -1px; margin-right: -1px}
+.u-section-2 .u-image-1 {height: 767px; width: 521px; margin-left: 0; margin-right: 0}
 .u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
-.u-section-2 .u-image-2 {height: 753px; width: 521px; margin-left: -1px; margin-right: -1px}
+.u-section-2 .u-image-2 {height: 767px; width: 521px; margin-left: 0; margin-right: 0}
 .u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
-.u-section-2 .u-image-3 {height: 753px; width: 521px; margin-left: -1px; margin-right: -1px} }
+.u-section-2 .u-image-3 {height: 767px; width: 521px; margin-left: 0; margin-right: 0} }
 
 @media (max-width: 575px){ .u-section-2 .u-text-1 {font-size: 2.25rem}
-.u-section-2 .u-image-1 {height: 462px; width: 320px; margin-left: 0; margin-right: 0}
-.u-section-2 .u-image-2 {height: 462px; width: 320px; margin-left: 0; margin-right: 0}
-.u-section-2 .u-image-3 {height: 462px; width: 320px; margin-left: 0; margin-right: 0} }
+.u-section-2 .u-image-1 {height: 471px; width: 320px}
+.u-section-2 .u-image-2 {height: 471px; width: 320px}
+.u-section-2 .u-image-3 {height: 471px; width: 320px} }
